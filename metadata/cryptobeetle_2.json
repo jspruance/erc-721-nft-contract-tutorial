@@ -1,0 +1,22 @@
+{
+    "name": "Crypto Beetle 2",
+    "description": "Crypto Beetle",
+    "image": "https://ipfs.io/ipfs/QmPCyMfKzCUz97exZAyWZJRQXPqfAQN4EbVUSxSWKLCWaA",
+    "attributes": [{
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Dots",
+        "value": 6
+      },
+      {
+        "trait_type": "Antenna",
+        "value": "large"
+      },
+      {
+        "trait_type": "Background",
+        "value": "space"
+      }
+    ]
+}
